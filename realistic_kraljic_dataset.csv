@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Supplier_Region,Lead_Time_Days,Order_Volume_Units,Cost_per_Unit,Supply_Risk_Score,Profit_Impact_Score,Environmental_Impact,Single_Source_Risk,Kraljic_Category
+P001,Semiconductors,South America,81,171,255.03,5,5,4,Yes,Strategic
+P002,Semiconductors,South America,8,763,380.33,5,4,4,Yes,Strategic
+P003,Pharma APIs,Asia,65,413,385.24,4,5,5,Yes,Strategic
+P004,Semiconductors,South America,70,882,287.64,5,5,5,Yes,Strategic
+P005,Lithium Batteries,Asia,15,120,382.26,4,4,4,Yes,Strategic
+P006,AI Chips,Asia,84,466,405.27,5,5,5,Yes,Strategic
+P007,Lithium Batteries,South America,69,101,398.76,5,4,5,Yes,Strategic
+P008,AI Chips,South America,68,369,481.85,5,4,4,No,Strategic
+P009,Pharma APIs,Asia,35,978,424.2,3,4,4,Yes,Strategic
+P010,Semiconductors,Africa,87,620,204.69,5,5,5,Yes,Strategic
+P011,Pharma APIs,Asia,78,872,431.38,5,3,5,Yes,Strategic
+P012,Pharma APIs,Africa,41,506,219.07,5,5,5,Yes,Strategic
+P013,Lithium Batteries,Africa,33,742,491.51,5,4,4,No,Strategic
+P014,Lithium Batteries,Africa,10,991,233.27,3,3,4,Yes,Strategic
+P015,AI Chips,Asia,34,754,381.33,5,5,4,Yes,Strategic
+P016,AI Chips,South America,68,745,288.69,5,5,5,No,Strategic
+P017,Lithium Batteries,Africa,78,732,394.31,5,4,5,Yes,Strategic
+P018,Semiconductors,Africa,38,918,266.63,5,5,5,Yes,Strategic
+P019,Pharma APIs,South America,9,929,321.15,5,4,4,Yes,Strategic
+P020,Lithium Batteries,South America,7,798,499.32,5,3,4,No,Strategic
+P021,Semiconductors,Africa,62,829,359.28,5,5,5,Yes,Strategic
+P022,Semiconductors,South America,22,936,440.94,5,5,5,No,Strategic
+P023,Lithium Batteries,Africa,73,563,352.46,5,5,4,No,Strategic
+P024,Semiconductors,Africa,17,919,393.55,4,4,4,Yes,Strategic
+P025,Pharma APIs,Africa,66,514,262.72,4,3,5,Yes,Strategic
+P026,Lithium Batteries,Africa,25,751,227.93,5,3,4,No,Strategic
+P027,Pharma APIs,Africa,31,153,456.9,4,4,5,No,Strategic
+P028,Lithium Batteries,Asia,74,805,291.61,4,4,5,Yes,Strategic
+P029,Lithium Batteries,Africa,54,603,253.65,4,3,5,No,Strategic
+P030,Pharma APIs,South America,60,121,390.9,3,5,5,Yes,Strategic
+P031,Pharma APIs,Asia,54,897,438.44,3,3,4,Yes,Strategic
+P032,Semiconductors,South America,12,611,430.57,4,4,4,No,Strategic
+P033,Semiconductors,Africa,69,448,485.92,5,3,4,Yes,Strategic
+P034,Lithium Batteries,Asia,60,355,455.34,4,5,4,Yes,Strategic
+P035,AI Chips,Africa,33,725,221.12,4,5,5,Yes,Strategic
+P036,AI Chips,Africa,32,492,422.23,4,5,4,No,Strategic
+P037,Semiconductors,Asia,22,927,383.45,4,4,5,Yes,Strategic
+P038,AI Chips,Africa,57,191,301.4,5,4,5,Yes,Strategic
+P039,Lithium Batteries,Asia,21,249,494.55,5,4,5,No,Strategic
+P040,AI Chips,Asia,53,363,298.0,5,5,4,Yes,Strategic
+P041,Semiconductors,South America,69,368,417.83,5,4,5,Yes,Strategic
+P042,Semiconductors,Africa,18,840,223.54,5,4,5,No,Strategic
+P043,Lithium Batteries,South America,7,850,474.56,3,4,5,Yes,Strategic
+P044,Pharma APIs,Africa,63,680,397.13,4,5,5,No,Strategic
+P045,Lithium Batteries,Asia,54,193,213.8,5,5,5,No,Strategic
+P046,Lithium Batteries,South America,40,833,251.96,4,4,4,Yes,Strategic
+P047,Pharma APIs,Asia,8,541,387.76,3,5,5,No,Strategic
+P048,Lithium Batteries,Africa,67,951,390.92,4,4,5,Yes,Strategic
+P049,Semiconductors,Africa,18,676,387.78,3,3,4,Yes,Strategic
+P050,Semiconductors,South America,80,853,211.69,4,5,4,Yes,Strategic
+P051,AI Chips,Asia,42,295,278.21,5,4,5,Yes,Strategic
+P052,Lithium Batteries,Africa,42,493,284.61,3,5,4,No,Strategic
+P053,AI Chips,Asia,29,762,374.16,5,3,5,Yes,Strategic
+P054,Lithium Batteries,Asia,65,980,313.32,4,3,5,Yes,Strategic
+P055,Semiconductors,Africa,58,332,203.25,4,5,4,Yes,Strategic
+P056,Semiconductors,Africa,29,168,224.99,4,3,4,Yes,Strategic
+P057,Pharma APIs,Africa,41,141,227.36,4,3,5,Yes,Strategic
+P058,Semiconductors,South America,13,850,411.75,3,3,5,Yes,Strategic
+P059,AI Chips,Asia,89,894,221.83,3,5,5,Yes,Strategic
+P060,Pharma APIs,Asia,37,599,311.19,4,4,4,No,Strategic
+P061,Semiconductors,Africa,51,190,367.52,4,5,5,No,Strategic
+P062,Lithium Batteries,Africa,7,759,371.44,4,5,5,No,Strategic
+P063,Semiconductors,Asia,12,290,488.65,4,4,5,Yes,Strategic
+P064,AI Chips,South America,42,928,490.96,4,5,4,No,Strategic
+P065,Semiconductors,Africa,60,146,222.63,5,4,4,Yes,Strategic
+P066,AI Chips,South America,42,111,421.13,3,5,5,No,Strategic
+P067,AI Chips,Africa,23,639,268.82,5,5,5,Yes,Strategic
+P068,Lithium Batteries,South America,12,831,444.14,5,3,5,Yes,Strategic
+P069,AI Chips,South America,11,549,374.35,5,4,5,No,Strategic
+P070,Semiconductors,Africa,69,245,433.28,4,4,5,No,Strategic
+P071,Lithium Batteries,Africa,27,560,452.64,5,3,4,Yes,Strategic
+P072,Pharma APIs,Africa,59,808,407.51,3,5,4,No,Strategic
+P073,Lithium Batteries,Asia,83,184,313.36,5,4,5,Yes,Strategic
+P074,Pharma APIs,Africa,40,899,401.51,5,4,5,Yes,Strategic
+P075,AI Chips,Asia,63,367,356.05,5,4,4,Yes,Strategic
+P076,Lithium Batteries,South America,44,306,208.63,5,5,4,Yes,Strategic
+P077,Pharma APIs,Africa,58,197,305.18,5,5,5,Yes,Strategic
+P078,Lithium Batteries,Asia,10,641,435.1,4,3,4,Yes,Strategic
+P079,AI Chips,South America,72,607,347.63,5,3,5,Yes,Strategic
+P080,Lithium Batteries,Africa,22,982,373.89,5,5,4,Yes,Strategic
+P081,Pharma APIs,Africa,67,380,408.95,4,5,4,No,Strategic
+P082,AI Chips,South America,7,565,446.54,3,4,5,Yes,Strategic
+P083,Lithium Batteries,Asia,32,645,261.9,5,4,4,Yes,Strategic
+P084,Lithium Batteries,Asia,42,155,406.34,3,4,5,Yes,Strategic
+P085,Lithium Batteries,South America,34,791,379.18,5,4,4,Yes,Strategic
+P086,Semiconductors,Africa,29,765,416.15,5,5,5,Yes,Strategic
+P087,AI Chips,Africa,34,373,209.14,5,3,5,Yes,Strategic
+P088,AI Chips,Asia,31,185,452.21,3,3,5,Yes,Strategic
+P089,Pharma APIs,South America,14,245,394.65,5,5,4,Yes,Strategic
+P090,Pharma APIs,South America,62,524,238.27,4,5,4,Yes,Strategic
+P091,Semiconductors,South America,10,388,381.73,4,5,4,Yes,Strategic
+P092,AI Chips,Africa,37,706,285.53,5,5,5,No,Strategic
+P093,Pharma APIs,Africa,57,105,499.18,5,5,5,Yes,Strategic
+P094,AI Chips,Asia,74,491,367.03,4,5,5,Yes,Strategic
+P095,Semiconductors,South America,17,239,420.87,5,3,4,No,Strategic
+P096,Semiconductors,South America,16,772,359.78,4,5,5,Yes,Strategic
+P097,Pharma APIs,Asia,81,695,405.37,4,3,4,Yes,Strategic
+P098,Semiconductors,South America,81,705,323.55,5,5,4,No,Strategic
+P099,Lithium Batteries,Asia,20,612,313.77,5,4,5,No,Strategic
+P100,Pharma APIs,South America,48,104,249.28,5,3,4,Yes,Strategic
+P101,Lithium Batteries,Asia,29,715,335.58,5,4,5,No,Strategic
+P102,Semiconductors,South America,45,324,269.66,3,5,4,Yes,Strategic
+P103,Semiconductors,Africa,39,278,299.84,5,4,5,Yes,Strategic
+P104,Pharma APIs,Asia,61,256,371.95,4,5,5,No,Strategic
+P105,Lithium Batteries,Asia,19,621,370.97,5,5,4,No,Strategic
+P106,Semiconductors,Asia,74,795,337.1,3,5,4,No,Strategic
+P107,Pharma APIs,South America,75,726,203.66,5,5,4,Yes,Strategic
+P108,Pharma APIs,Africa,18,649,472.54,4,5,5,Yes,Strategic
+P109,AI Chips,Asia,37,722,351.77,3,5,5,No,Strategic
+P110,AI Chips,Africa,52,561,223.2,5,4,5,No,Strategic
+P111,Lithium Batteries,Africa,46,281,451.67,4,5,4,No,Strategic
+P112,Semiconductors,Asia,41,236,216.43,4,3,5,No,Strategic
+P113,Semiconductors,Africa,23,905,459.06,5,5,5,Yes,Strategic
+P114,Pharma APIs,Africa,39,278,335.73,4,3,5,Yes,Strategic
+P115,Lithium Batteries,Asia,55,765,283.28,5,3,5,Yes,Strategic
+P116,Pharma APIs,Asia,57,800,225.6,4,5,5,Yes,Strategic
+P117,Semiconductors,Asia,24,769,304.82,5,5,4,Yes,Strategic
+P118,Lithium Batteries,South America,57,293,335.99,5,4,5,Yes,Strategic
+P119,Semiconductors,South America,40,154,300.31,5,5,4,No,Strategic
+P120,Pharma APIs,Asia,73,899,493.68,3,5,5,No,Strategic
+P121,Pharma APIs,Asia,14,427,351.65,5,5,5,Yes,Strategic
+P122,AI Chips,Asia,20,387,496.62,4,4,5,No,Strategic
+P123,Semiconductors,Asia,25,429,226.08,5,4,4,No,Strategic
+P124,Pharma APIs,Africa,8,996,411.18,4,5,4,Yes,Strategic
+P125,Semiconductors,South America,59,360,280.42,3,4,4,Yes,Strategic
+P126,Pharma APIs,South America,87,463,492.36,5,5,5,Yes,Strategic
+P127,AI Chips,Africa,28,651,280.6,3,4,5,Yes,Strategic
+P128,Semiconductors,Asia,24,128,239.68,5,5,4,Yes,Strategic
+P129,Pharma APIs,South America,33,133,372.95,4,5,4,Yes,Strategic
+P130,Lithium Batteries,Asia,51,709,419.66,5,5,5,Yes,Strategic
+P131,Lithium Batteries,South America,57,733,314.94,5,3,5,Yes,Strategic
+P132,Lithium Batteries,Asia,60,248,273.6,5,5,4,Yes,Strategic
+P133,AI Chips,South America,87,505,486.23,5,5,4,Yes,Strategic
+P134,AI Chips,Asia,7,300,246.4,3,3,5,Yes,Strategic
+P135,Lithium Batteries,South America,18,124,379.49,3,5,4,Yes,Strategic
+P136,Semiconductors,Asia,53,916,442.23,5,4,4,No,Strategic
+P137,Pharma APIs,Africa,86,875,461.88,4,5,4,No,Strategic
+P138,AI Chips,Asia,53,367,471.01,4,4,4,Yes,Strategic
+P139,Pharma APIs,Africa,13,893,477.57,5,5,4,Yes,Strategic
+P140,Lithium Batteries,Africa,24,926,234.58,4,5,4,No,Strategic
+P141,Semiconductors,Asia,43,258,211.1,5,5,5,Yes,Strategic
+P142,Semiconductors,Asia,31,463,417.43,4,5,4,Yes,Strategic
+P143,Lithium Batteries,Africa,40,525,465.79,5,4,5,Yes,Strategic
+P144,AI Chips,Africa,35,373,255.64,5,4,5,No,Strategic
+P145,AI Chips,Africa,36,847,211.28,3,4,4,Yes,Strategic
+P146,Lithium Batteries,Asia,74,676,356.76,4,4,5,Yes,Strategic
+P147,AI Chips,Asia,74,804,212.63,5,3,4,No,Strategic
+P148,Pharma APIs,Africa,68,479,439.4,4,5,5,No,Strategic
+P149,Lithium Batteries,Asia,80,871,423.01,5,4,4,Yes,Strategic
+P150,Semiconductors,South America,60,852,266.15,4,3,5,No,Strategic
+P151,Semiconductors,Africa,56,119,355.48,4,5,5,Yes,Strategic
+P152,AI Chips,Asia,79,259,246.17,5,3,4,Yes,Strategic
+P153,Pharma APIs,Asia,31,716,227.45,4,5,5,Yes,Strategic
+P154,AI Chips,Africa,44,139,442.85,5,5,4,Yes,Strategic
+P155,Pharma APIs,Asia,87,553,214.64,3,3,4,Yes,Strategic
+P156,AI Chips,South America,39,448,344.18,5,3,4,No,Strategic
+P157,AI Chips,Asia,51,191,460.45,4,5,4,Yes,Strategic
+P158,Lithium Batteries,Asia,64,766,231.75,5,4,5,Yes,Strategic
+P159,Lithium Batteries,South America,88,493,447.75,5,5,5,Yes,Strategic
+P160,Pharma APIs,Asia,23,623,426.99,5,5,4,Yes,Strategic
+P161,Pharma APIs,South America,77,955,390.2,5,5,4,No,Strategic
+P162,AI Chips,Asia,74,511,452.04,3,5,5,Yes,Strategic
+P163,Pharma APIs,South America,71,830,220.35,4,5,5,No,Strategic
+P164,AI Chips,Asia,58,405,213.72,5,5,5,No,Strategic
+P165,Lithium Batteries,Africa,32,132,219.69,5,4,5,Yes,Strategic
+P166,AI Chips,Africa,35,198,499.14,5,4,4,No,Strategic
+P167,Semiconductors,Africa,62,183,224.71,4,5,5,Yes,Strategic
+P168,Pharma APIs,Africa,9,968,472.86,3,3,4,No,Strategic
+P169,Semiconductors,Asia,21,626,468.23,3,5,5,Yes,Strategic
+P170,Pharma APIs,Asia,52,529,490.46,5,5,4,No,Strategic
+P171,AI Chips,Africa,31,792,387.87,5,5,5,No,Strategic
+P172,AI Chips,South America,8,335,237.56,4,5,5,Yes,Strategic
+P173,Pharma APIs,South America,44,820,495.31,5,4,5,Yes,Strategic
+P174,Pharma APIs,South America,23,201,427.12,5,3,4,Yes,Strategic
+P175,Pharma APIs,Asia,8,691,242.75,4,5,5,Yes,Strategic
+P176,Lithium Batteries,Africa,52,688,305.19,4,4,5,Yes,Strategic
+P177,AI Chips,Africa,12,986,260.05,4,5,5,Yes,Strategic
+P178,Lithium Batteries,South America,13,515,215.59,5,4,4,No,Strategic
+P179,Semiconductors,Africa,66,413,364.28,5,4,5,Yes,Strategic
+P180,AI Chips,Asia,25,111,417.45,4,5,4,Yes,Strategic
+P181,Semiconductors,Africa,24,832,423.28,5,5,4,Yes,Strategic
+P182,Semiconductors,South America,67,972,498.9,5,5,4,Yes,Strategic
+P183,Lithium Batteries,Africa,30,431,261.07,5,3,4,No,Strategic
+P184,Pharma APIs,South America,42,481,420.61,3,5,5,Yes,Strategic
+P185,AI Chips,South America,64,677,346.0,5,5,4,No,Strategic
+P186,AI Chips,Asia,14,629,315.15,5,5,5,No,Strategic
+P187,Pharma APIs,Asia,47,625,253.9,4,5,5,Yes,Strategic
+P188,AI Chips,South America,23,113,321.51,5,5,5,Yes,Strategic
+P189,Semiconductors,Asia,53,262,319.71,3,5,4,Yes,Strategic
+P190,Semiconductors,South America,7,369,222.05,4,4,5,Yes,Strategic
+P191,Lithium Batteries,Asia,53,612,385.14,5,4,4,Yes,Strategic
+P192,Lithium Batteries,Africa,67,731,434.54,5,4,5,Yes,Strategic
+P193,Pharma APIs,Asia,41,610,217.13,4,5,4,No,Strategic
+P194,AI Chips,South America,49,260,226.57,3,4,4,Yes,Strategic
+P195,AI Chips,Africa,29,284,391.74,5,4,4,Yes,Strategic
+P196,Pharma APIs,South America,14,737,237.72,5,5,4,Yes,Strategic
+P197,AI Chips,Africa,40,768,419.25,4,5,5,Yes,Strategic
+P198,Lithium Batteries,South America,82,513,483.38,5,3,5,Yes,Strategic
+P199,Semiconductors,South America,68,900,406.86,4,3,4,Yes,Strategic
+P200,Pharma APIs,Asia,83,674,381.49,4,4,4,No,Strategic
+P201,Semiconductors,South America,88,480,463.55,5,4,5,Yes,Strategic
+P202,Lithium Batteries,South America,21,430,330.67,5,3,4,Yes,Strategic
+P203,Lithium Batteries,Asia,50,927,318.85,4,5,4,Yes,Strategic
+P204,AI Chips,South America,32,721,381.03,4,5,5,Yes,Strategic
+P205,Pharma APIs,Asia,85,728,343.75,5,4,4,Yes,Strategic
+P206,Pharma APIs,Africa,27,442,318.31,5,3,5,No,Strategic
+P207,Semiconductors,Africa,74,216,469.01,5,5,5,No,Strategic
+P208,Lithium Batteries,Asia,35,433,258.37,4,5,4,Yes,Strategic
+P209,Semiconductors,South America,10,205,374.28,4,3,5,No,Strategic
+P210,AI Chips,Asia,69,450,254.34,5,5,5,Yes,Strategic
+P211,Pharma APIs,Africa,50,135,255.57,4,4,5,Yes,Strategic
+P212,Pharma APIs,Asia,32,240,233.69,4,4,4,Yes,Strategic
+P213,Lithium Batteries,Asia,43,732,252.43,4,5,4,No,Strategic
+P214,Pharma APIs,South America,61,159,446.78,5,5,4,Yes,Strategic
+P215,AI Chips,Asia,54,207,270.57,3,4,5,Yes,Strategic
+P216,Lithium Batteries,South America,63,259,382.13,3,3,4,Yes,Strategic
+P217,AI Chips,South America,45,362,282.36,4,4,4,Yes,Strategic
+P218,Lithium Batteries,South America,38,799,497.38,4,4,5,Yes,Strategic
+P219,Semiconductors,Asia,76,840,279.47,3,5,4,Yes,Strategic
+P220,Lithium Batteries,Africa,78,927,332.72,3,5,5,Yes,Strategic
+P221,AI Chips,South America,87,157,269.25,5,5,4,Yes,Strategic
+P222,Semiconductors,Asia,37,363,339.56,4,3,5,Yes,Strategic
+P223,Semiconductors,Asia,29,545,360.75,5,4,5,Yes,Strategic
+P224,Pharma APIs,Asia,76,971,206.01,4,4,5,Yes,Strategic
+P225,AI Chips,South America,20,260,426.58,5,4,4,No,Strategic
+P226,Pharma APIs,Africa,71,677,278.93,3,3,4,Yes,Strategic
+P227,Semiconductors,South America,49,765,283.91,5,5,5,No,Strategic
+P228,Semiconductors,South America,51,589,455.43,5,5,5,No,Strategic
+P229,Semiconductors,Africa,21,561,359.74,5,4,5,Yes,Strategic
+P230,Lithium Batteries,South America,31,565,246.14,3,5,5,No,Strategic
+P231,Lithium Batteries,South America,58,881,476.83,5,3,4,Yes,Strategic
+P232,Semiconductors,Asia,85,752,447.56,4,3,4,Yes,Strategic
+P233,Pharma APIs,Africa,66,227,433.02,4,5,5,Yes,Strategic
+P234,Semiconductors,Africa,11,353,264.81,5,5,5,Yes,Strategic
+P235,Semiconductors,Africa,89,481,263.53,5,4,4,No,Strategic
+P236,Lithium Batteries,Asia,58,289,236.42,5,3,5,Yes,Strategic
+P237,Lithium Batteries,Africa,13,330,358.11,5,4,5,Yes,Strategic
+P238,Semiconductors,South America,68,840,448.26,5,5,4,No,Strategic
+P239,Semiconductors,Africa,19,760,437.1,3,4,5,Yes,Strategic
+P240,Lithium Batteries,Asia,66,792,388.79,5,4,5,Yes,Strategic
+P241,Semiconductors,South America,58,282,453.31,4,5,4,Yes,Strategic
+P242,Lithium Batteries,Asia,7,496,435.5,4,4,4,No,Strategic
+P243,AI Chips,Asia,40,109,276.4,5,5,5,Yes,Strategic
+P244,Pharma APIs,Asia,38,178,391.0,5,4,4,Yes,Strategic
+P245,Pharma APIs,Africa,57,944,404.07,3,3,5,Yes,Strategic
+P246,Pharma APIs,Africa,58,247,210.67,4,5,4,Yes,Strategic
+P247,Semiconductors,Asia,14,662,435.15,4,4,4,Yes,Strategic
+P248,Pharma APIs,Asia,85,467,224.79,4,5,5,No,Strategic
+P249,AI Chips,Asia,68,935,276.62,4,5,5,Yes,Strategic
+P250,Semiconductors,South America,38,751,439.61,4,4,4,No,Strategic
+P251,Customized Valves,Asia,79,275,223.3,5,3,3,Yes,Bottleneck
+P252,Rare Earth Metals,Europe,52,163,210.02,4,2,4,Yes,Bottleneck
+P253,Rare Earth Metals,Asia,24,81,157.18,4,2,4,Yes,Bottleneck
+P254,Rare Earth Metals,Asia,28,441,192.11,5,3,4,Yes,Bottleneck
+P255,Customized Valves,Asia,56,318,207.91,5,3,4,Yes,Bottleneck
+P256,Customized Valves,Asia,62,93,130.14,3,1,3,Yes,Bottleneck
+P257,Customized Valves,Asia,14,462,213.0,3,1,4,Yes,Bottleneck
+P258,Specialty Gases,Europe,16,413,262.35,5,2,3,Yes,Bottleneck
+P259,Rare Earth Metals,Asia,64,460,223.2,4,2,4,Yes,Bottleneck
+P260,Specialty Gases,Europe,76,170,102.21,5,2,4,Yes,Bottleneck
+P261,Catalysts,Europe,32,160,124.94,4,2,3,Yes,Bottleneck
+P262,Rare Earth Metals,Europe,26,408,100.38,4,1,3,Yes,Bottleneck
+P263,Rare Earth Metals,Europe,10,63,196.19,4,2,3,Yes,Bottleneck
+P264,Catalysts,Europe,69,131,235.29,5,1,3,Yes,Bottleneck
+P265,Specialty Gases,Asia,54,125,239.08,5,3,4,No,Bottleneck
+P266,Rare Earth Metals,Europe,53,232,165.64,4,3,3,Yes,Bottleneck
+P267,Customized Valves,Europe,21,210,159.89,5,3,3,Yes,Bottleneck
+P268,Specialty Gases,Asia,16,408,249.44,3,1,3,No,Bottleneck
+P269,Specialty Gases,Europe,57,399,240.05,3,2,4,Yes,Bottleneck
+P270,Rare Earth Metals,Europe,27,459,270.55,3,1,3,Yes,Bottleneck
+P271,Specialty Gases,Asia,7,139,241.2,5,2,4,Yes,Bottleneck
+P272,Catalysts,Europe,30,231,253.1,3,3,4,Yes,Bottleneck
+P273,Rare Earth Metals,Europe,61,413,113.79,5,2,4,Yes,Bottleneck
+P274,Catalysts,Asia,50,449,294.97,4,2,4,Yes,Bottleneck
+P275,Rare Earth Metals,Asia,39,133,106.72,3,2,4,No,Bottleneck
+P276,Customized Valves,Europe,27,209,279.97,5,3,4,Yes,Bottleneck
+P277,Specialty Gases,Asia,9,191,257.54,5,1,3,Yes,Bottleneck
+P278,Customized Valves,Europe,47,452,213.07,4,1,3,No,Bottleneck
+P279,Rare Earth Metals,Asia,34,376,145.06,4,1,4,Yes,Bottleneck
+P280,Specialty Gases,Europe,71,226,258.34,4,1,3,Yes,Bottleneck
+P281,Specialty Gases,Europe,45,161,289.14,5,1,3,Yes,Bottleneck
+P282,Specialty Gases,Asia,55,343,257.39,5,3,4,Yes,Bottleneck
+P283,Catalysts,Europe,85,203,274.43,5,2,3,Yes,Bottleneck
+P284,Specialty Gases,Europe,69,430,151.1,5,1,3,Yes,Bottleneck
+P285,Specialty Gases,Asia,58,93,192.79,4,3,3,Yes,Bottleneck
+P286,Customized Valves,Europe,42,452,176.08,4,1,3,No,Bottleneck
+P287,Rare Earth Metals,Europe,66,96,259.58,4,2,3,No,Bottleneck
+P288,Catalysts,Asia,46,385,133.21,5,3,3,Yes,Bottleneck
+P289,Specialty Gases,Europe,10,57,140.4,5,1,3,Yes,Bottleneck
+P290,Specialty Gases,Europe,69,81,116.69,5,1,3,Yes,Bottleneck
+P291,Rare Earth Metals,Europe,65,318,233.58,4,2,4,Yes,Bottleneck
+P292,Customized Valves,Europe,11,180,237.37,5,1,3,Yes,Bottleneck
+P293,Customized Valves,Asia,72,421,271.64,3,3,4,Yes,Bottleneck
+P294,Customized Valves,Europe,27,265,162.81,5,2,4,Yes,Bottleneck
+P295,Catalysts,Asia,64,212,120.13,5,2,4,No,Bottleneck
+P296,Customized Valves,Asia,41,199,224.19,4,2,3,Yes,Bottleneck
+P297,Rare Earth Metals,Europe,76,115,235.24,5,2,3,Yes,Bottleneck
+P298,Rare Earth Metals,Asia,53,296,298.35,5,1,3,Yes,Bottleneck
+P299,Specialty Gases,Europe,45,362,113.7,4,1,3,Yes,Bottleneck
+P300,Rare Earth Metals,Asia,65,259,233.0,5,3,3,No,Bottleneck
+P301,Customized Valves,Europe,36,191,175.9,5,3,4,Yes,Bottleneck
+P302,Customized Valves,Europe,28,330,184.51,5,2,4,Yes,Bottleneck
+P303,Catalysts,Europe,84,436,294.56,3,2,4,Yes,Bottleneck
+P304,Customized Valves,Europe,59,170,225.65,4,1,4,Yes,Bottleneck
+P305,Rare Earth Metals,Europe,81,314,152.66,4,2,4,Yes,Bottleneck
+P306,Rare Earth Metals,Europe,47,271,159.98,4,1,3,Yes,Bottleneck
+P307,Catalysts,Europe,70,111,115.79,5,2,3,Yes,Bottleneck
+P308,Specialty Gases,Asia,79,374,204.29,4,1,4,Yes,Bottleneck
+P309,Rare Earth Metals,Asia,46,265,273.71,5,3,4,Yes,Bottleneck
+P310,Catalysts,Europe,27,64,192.89,4,2,3,Yes,Bottleneck
+P311,Customized Valves,Europe,73,228,257.76,5,1,4,Yes,Bottleneck
+P312,Specialty Gases,Europe,12,396,154.31,5,2,3,No,Bottleneck
+P313,Specialty Gases,Europe,71,317,172.37,5,2,4,Yes,Bottleneck
+P314,Rare Earth Metals,Asia,67,473,196.41,3,1,4,Yes,Bottleneck
+P315,Specialty Gases,Asia,55,185,109.9,4,3,3,Yes,Bottleneck
+P316,Catalysts,Asia,23,431,158.7,4,1,3,Yes,Bottleneck
+P317,Catalysts,Europe,25,232,275.97,5,1,3,Yes,Bottleneck
+P318,Customized Valves,Europe,18,50,154.95,3,1,4,Yes,Bottleneck
+P319,Rare Earth Metals,Europe,52,152,264.76,4,2,4,Yes,Bottleneck
+P320,Customized Valves,Europe,39,226,265.92,5,1,3,Yes,Bottleneck
+P321,Customized Valves,Asia,21,288,118.46,4,2,4,Yes,Bottleneck
+P322,Rare Earth Metals,Asia,20,154,233.71,3,2,4,Yes,Bottleneck
+P323,Specialty Gases,Europe,8,88,123.15,5,1,4,Yes,Bottleneck
+P324,Rare Earth Metals,Europe,71,345,206.79,5,2,4,Yes,Bottleneck
+P325,Customized Valves,Asia,30,262,108.75,3,2,4,Yes,Bottleneck
+P326,Rare Earth Metals,Asia,59,156,177.48,5,1,4,Yes,Bottleneck
+P327,Specialty Gases,Europe,69,403,189.28,5,1,4,Yes,Bottleneck
+P328,Customized Valves,Asia,62,362,216.44,5,1,4,Yes,Bottleneck
+P329,Catalysts,Europe,80,105,128.52,5,1,3,Yes,Bottleneck
+P330,Catalysts,Europe,54,175,101.34,4,2,3,Yes,Bottleneck
+P331,Catalysts,Europe,65,80,211.94,4,2,4,Yes,Bottleneck
+P332,Customized Valves,Europe,57,204,176.84,5,1,4,Yes,Bottleneck
+P333,Specialty Gases,Europe,48,294,129.41,4,1,4,Yes,Bottleneck
+P334,Catalysts,Asia,65,245,277.68,3,1,4,Yes,Bottleneck
+P335,Customized Valves,Asia,55,273,106.19,4,1,4,Yes,Bottleneck
+P336,Rare Earth Metals,Europe,57,428,252.38,5,1,3,Yes,Bottleneck
+P337,Specialty Gases,Europe,69,70,168.49,5,1,4,Yes,Bottleneck
+P338,Catalysts,Asia,88,403,130.1,3,2,3,Yes,Bottleneck
+P339,Catalysts,Europe,42,324,258.5,4,1,3,Yes,Bottleneck
+P340,Specialty Gases,Asia,27,166,292.81,5,1,4,Yes,Bottleneck
+P341,Specialty Gases,Europe,25,233,124.96,4,1,4,Yes,Bottleneck
+P342,Specialty Gases,Europe,39,401,196.68,5,3,4,Yes,Bottleneck
+P343,Specialty Gases,Europe,59,252,177.31,4,2,4,Yes,Bottleneck
+P344,Specialty Gases,Asia,54,224,188.69,3,3,3,Yes,Bottleneck
+P345,Customized Valves,Europe,44,386,270.79,5,3,3,Yes,Bottleneck
+P346,Customized Valves,Europe,49,238,202.09,4,1,3,Yes,Bottleneck
+P347,Customized Valves,Europe,62,175,126.89,4,3,3,Yes,Bottleneck
+P348,Specialty Gases,Asia,13,68,101.77,5,2,4,Yes,Bottleneck
+P349,Customized Valves,Europe,7,50,266.83,3,1,3,Yes,Bottleneck
+P350,Catalysts,Europe,81,72,120.88,4,3,3,Yes,Bottleneck
+P351,Customized Valves,Asia,22,222,226.42,5,2,4,Yes,Bottleneck
+P352,Specialty Gases,Europe,19,283,200.12,5,1,4,Yes,Bottleneck
+P353,Catalysts,Europe,33,344,146.48,4,2,3,Yes,Bottleneck
+P354,Specialty Gases,Asia,25,370,195.29,3,1,3,Yes,Bottleneck
+P355,Rare Earth Metals,Europe,16,80,251.92,4,1,3,Yes,Bottleneck
+P356,Catalysts,Europe,30,209,114.36,5,1,4,Yes,Bottleneck
+P357,Customized Valves,Europe,84,254,204.03,5,3,3,Yes,Bottleneck
+P358,Specialty Gases,Asia,32,124,225.91,4,3,3,Yes,Bottleneck
+P359,Specialty Gases,Asia,50,392,241.4,5,1,4,Yes,Bottleneck
+P360,Rare Earth Metals,Asia,50,170,286.18,5,1,3,Yes,Bottleneck
+P361,Catalysts,Europe,23,190,278.37,5,1,3,No,Bottleneck
+P362,Specialty Gases,Asia,29,365,212.93,4,3,3,Yes,Bottleneck
+P363,Rare Earth Metals,Asia,79,466,233.28,5,1,4,Yes,Bottleneck
+P364,Rare Earth Metals,Europe,53,342,226.87,5,1,4,Yes,Bottleneck
+P365,Catalysts,Asia,19,285,173.74,4,2,3,Yes,Bottleneck
+P366,Catalysts,Europe,51,378,142.4,4,1,4,Yes,Bottleneck
+P367,Rare Earth Metals,Europe,34,312,127.32,5,1,4,Yes,Bottleneck
+P368,Catalysts,Asia,60,70,215.84,4,1,4,Yes,Bottleneck
+P369,Specialty Gases,Europe,87,123,119.97,4,2,4,Yes,Bottleneck
+P370,Catalysts,Europe,49,436,106.28,5,1,3,Yes,Bottleneck
+P371,Rare Earth Metals,Europe,64,279,203.81,5,1,3,Yes,Bottleneck
+P372,Catalysts,Europe,13,236,103.39,3,2,3,Yes,Bottleneck
+P373,Catalysts,Asia,83,104,168.36,5,2,4,Yes,Bottleneck
+P374,Customized Valves,Asia,65,209,235.12,4,1,3,Yes,Bottleneck
+P375,Catalysts,Asia,50,206,242.03,5,2,4,Yes,Bottleneck
+P376,Specialty Gases,Europe,21,168,298.04,5,3,3,Yes,Bottleneck
+P377,Catalysts,Europe,31,108,173.14,4,2,4,Yes,Bottleneck
+P378,Specialty Gases,Asia,71,230,155.25,5,2,4,Yes,Bottleneck
+P379,Rare Earth Metals,Asia,32,487,167.47,3,2,4,Yes,Bottleneck
+P380,Rare Earth Metals,Asia,33,410,199.46,5,1,3,Yes,Bottleneck
+P381,Specialty Gases,Europe,68,326,200.12,4,2,4,Yes,Bottleneck
+P382,Specialty Gases,Europe,39,272,136.06,4,1,4,Yes,Bottleneck
+P383,Rare Earth Metals,Europe,54,60,258.63,4,2,3,Yes,Bottleneck
+P384,Catalysts,Europe,61,381,296.23,5,2,3,Yes,Bottleneck
+P385,Specialty Gases,Asia,23,309,296.24,4,2,4,Yes,Bottleneck
+P386,Customized Valves,Europe,71,467,290.58,4,2,3,Yes,Bottleneck
+P387,Customized Valves,Europe,80,137,132.54,3,1,4,Yes,Bottleneck
+P388,Catalysts,Europe,61,475,285.24,4,2,3,Yes,Bottleneck
+P389,Catalysts,Europe,16,204,150.76,4,1,3,Yes,Bottleneck
+P390,Catalysts,Europe,77,204,179.57,3,1,4,No,Bottleneck
+P391,Rare Earth Metals,Asia,84,143,118.14,5,2,3,Yes,Bottleneck
+P392,Rare Earth Metals,Asia,64,230,150.2,5,1,3,Yes,Bottleneck
+P393,Specialty Gases,Asia,71,315,120.36,3,2,3,Yes,Bottleneck
+P394,Rare Earth Metals,Europe,27,474,235.91,5,3,3,Yes,Bottleneck
+P395,Customized Valves,Asia,46,158,267.93,5,2,4,Yes,Bottleneck
+P396,Rare Earth Metals,Europe,14,411,256.07,3,1,4,Yes,Bottleneck
+P397,Rare Earth Metals,Asia,43,95,218.76,5,2,4,Yes,Bottleneck
+P398,Rare Earth Metals,Europe,10,89,262.18,3,1,3,Yes,Bottleneck
+P399,Customized Valves,Asia,59,230,192.66,4,2,4,Yes,Bottleneck
+P400,Specialty Gases,Asia,44,237,218.09,4,2,4,Yes,Bottleneck
+P401,Rare Earth Metals,Europe,42,228,146.08,4,3,4,Yes,Bottleneck
+P402,Customized Valves,Asia,57,363,251.81,3,2,4,Yes,Bottleneck
+P403,Specialty Gases,Europe,60,96,167.39,4,1,4,Yes,Bottleneck
+P404,Rare Earth Metals,Asia,15,336,176.14,5,2,4,Yes,Bottleneck
+P405,Rare Earth Metals,Asia,27,322,108.48,3,3,4,No,Bottleneck
+P406,Rare Earth Metals,Asia,21,266,202.77,5,1,3,Yes,Bottleneck
+P407,Catalysts,Europe,40,456,260.7,3,1,4,Yes,Bottleneck
+P408,Customized Valves,Asia,69,119,128.43,5,1,4,Yes,Bottleneck
+P409,Rare Earth Metals,Asia,38,232,212.41,5,3,4,Yes,Bottleneck
+P410,Catalysts,Europe,39,388,176.87,5,2,3,Yes,Bottleneck
+P411,Specialty Gases,Europe,55,265,119.5,4,1,3,Yes,Bottleneck
+P412,Catalysts,Asia,25,332,200.96,4,2,4,Yes,Bottleneck
+P413,Catalysts,Europe,28,138,275.87,5,1,4,Yes,Bottleneck
+P414,Customized Valves,Europe,57,255,114.18,5,2,4,No,Bottleneck
+P415,Specialty Gases,Asia,18,162,132.56,4,3,4,Yes,Bottleneck
+P416,Rare Earth Metals,Europe,68,461,186.11,5,1,4,Yes,Bottleneck
+P417,Specialty Gases,Asia,19,246,237.09,5,1,3,Yes,Bottleneck
+P418,Catalysts,Europe,30,63,226.46,4,1,3,Yes,Bottleneck
+P419,Specialty Gases,Europe,12,441,282.95,3,2,4,Yes,Bottleneck
+P420,Specialty Gases,Asia,82,131,180.72,5,1,4,Yes,Bottleneck
+P421,Customized Valves,Europe,28,394,141.07,4,1,3,Yes,Bottleneck
+P422,Specialty Gases,Asia,26,206,115.4,3,1,3,No,Bottleneck
+P423,Catalysts,Europe,85,371,118.42,5,2,4,Yes,Bottleneck
+P424,Customized Valves,Europe,35,97,241.33,5,1,4,Yes,Bottleneck
+P425,Catalysts,Europe,28,315,121.18,5,1,3,No,Bottleneck
+P426,Catalysts,Europe,15,333,236.02,5,1,3,Yes,Bottleneck
+P427,Catalysts,Europe,23,122,144.1,4,1,3,Yes,Bottleneck
+P428,Specialty Gases,Asia,21,468,186.72,4,2,4,Yes,Bottleneck
+P429,Catalysts,Asia,47,459,244.69,5,1,3,Yes,Bottleneck
+P430,Specialty Gases,Asia,75,88,140.8,5,3,3,Yes,Bottleneck
+P431,Customized Valves,Europe,22,110,112.51,4,3,4,Yes,Bottleneck
+P432,Specialty Gases,Europe,83,387,166.61,5,3,4,Yes,Bottleneck
+P433,Catalysts,Europe,87,370,223.36,5,1,3,Yes,Bottleneck
+P434,Rare Earth Metals,Asia,15,344,259.94,4,1,3,Yes,Bottleneck
+P435,Specialty Gases,Europe,46,494,190.87,5,1,4,Yes,Bottleneck
+P436,Catalysts,Asia,64,384,128.88,5,3,4,Yes,Bottleneck
+P437,Rare Earth Metals,Europe,61,184,218.05,5,1,3,Yes,Bottleneck
+P438,Customized Valves,Europe,80,434,231.03,4,1,4,Yes,Bottleneck
+P439,Catalysts,Asia,74,158,276.34,3,1,3,Yes,Bottleneck
+P440,Catalysts,Asia,61,72,203.0,5,1,3,Yes,Bottleneck
+P441,Specialty Gases,Europe,86,85,290.56,5,2,4,Yes,Bottleneck
+P442,Rare Earth Metals,Asia,11,55,280.71,4,1,3,Yes,Bottleneck
+P443,Specialty Gases,Asia,43,463,168.96,3,2,3,Yes,Bottleneck
+P444,Customized Valves,Asia,12,161,238.79,3,2,3,Yes,Bottleneck
+P445,Catalysts,Asia,84,338,132.27,5,3,4,Yes,Bottleneck
+P446,Specialty Gases,Europe,45,469,121.07,5,1,4,Yes,Bottleneck
+P447,Customized Valves,Europe,15,167,153.52,5,1,3,Yes,Bottleneck
+P448,Customized Valves,Europe,56,244,274.29,3,1,4,Yes,Bottleneck
+P449,Specialty Gases,Asia,70,467,274.11,3,1,3,Yes,Bottleneck
+P450,Rare Earth Metals,Asia,73,331,128.57,4,1,3,Yes,Bottleneck
+P451,Customized Valves,Asia,9,242,290.29,4,2,3,Yes,Bottleneck
+P452,Customized Valves,Europe,86,331,144.38,3,1,4,Yes,Bottleneck
+P453,Rare Earth Metals,Asia,47,282,166.73,5,2,3,Yes,Bottleneck
+P454,Rare Earth Metals,Europe,14,479,102.67,5,1,4,Yes,Bottleneck
+P455,Specialty Gases,Europe,51,409,136.34,4,1,4,Yes,Bottleneck
+P456,Specialty Gases,Asia,73,384,260.76,5,1,4,No,Bottleneck
+P457,Customized Valves,Europe,36,89,245.85,5,3,3,Yes,Bottleneck
+P458,Customized Valves,Europe,54,442,268.47,4,3,4,Yes,Bottleneck
+P459,Rare Earth Metals,Europe,87,363,185.21,5,2,3,Yes,Bottleneck
+P460,Customized Valves,Asia,35,78,224.09,5,1,3,Yes,Bottleneck
+P461,Specialty Gases,Europe,68,436,251.74,4,1,3,Yes,Bottleneck
+P462,Specialty Gases,Europe,46,316,182.99,5,1,4,Yes,Bottleneck
+P463,Rare Earth Metals,Asia,8,253,184.97,3,2,4,Yes,Bottleneck
+P464,Specialty Gases,Europe,73,195,264.37,5,1,4,Yes,Bottleneck
+P465,Specialty Gases,Europe,33,222,145.01,4,1,4,Yes,Bottleneck
+P466,Catalysts,Europe,76,486,112.63,5,3,3,Yes,Bottleneck
+P467,Catalysts,Asia,28,253,239.79,4,3,3,Yes,Bottleneck
+P468,Specialty Gases,Europe,62,128,277.69,4,1,3,Yes,Bottleneck
+P469,Specialty Gases,Europe,14,462,165.06,4,2,3,No,Bottleneck
+P470,Customized Valves,Europe,37,87,241.37,5,1,4,Yes,Bottleneck
+P471,Customized Valves,Asia,41,414,271.6,4,1,3,Yes,Bottleneck
+P472,Catalysts,Europe,44,487,269.84,3,2,3,Yes,Bottleneck
+P473,Customized Valves,Europe,9,405,224.75,5,2,4,Yes,Bottleneck
+P474,Catalysts,Asia,49,388,180.47,5,2,3,Yes,Bottleneck
+P475,Specialty Gases,Europe,61,325,177.85,5,1,4,Yes,Bottleneck
+P476,Catalysts,Europe,48,100,142.33,4,1,3,No,Bottleneck
+P477,Catalysts,Asia,88,337,200.8,5,1,3,Yes,Bottleneck
+P478,Catalysts,Asia,60,182,133.47,3,1,3,Yes,Bottleneck
+P479,Specialty Gases,Europe,53,376,249.56,5,1,4,Yes,Bottleneck
+P480,Rare Earth Metals,Asia,85,453,133.95,5,3,4,Yes,Bottleneck
+P481,Catalysts,Europe,83,215,237.14,5,1,3,Yes,Bottleneck
+P482,Specialty Gases,Europe,26,341,155.4,5,1,4,Yes,Bottleneck
+P483,Catalysts,Asia,13,258,146.16,4,2,4,Yes,Bottleneck
+P484,Catalysts,Europe,41,481,277.22,5,1,3,Yes,Bottleneck
+P485,Customized Valves,Europe,26,288,279.47,5,2,3,No,Bottleneck
+P486,Catalysts,Europe,17,482,295.07,3,2,3,Yes,Bottleneck
+P487,Specialty Gases,Europe,9,339,142.16,5,2,3,Yes,Bottleneck
+P488,Rare Earth Metals,Europe,70,345,293.55,5,1,4,Yes,Bottleneck
+P489,Catalysts,Europe,42,187,104.1,3,1,3,Yes,Bottleneck
+P490,Rare Earth Metals,Europe,28,387,279.65,5,3,4,Yes,Bottleneck
+P491,Specialty Gases,Europe,46,351,241.34,4,1,4,Yes,Bottleneck
+P492,Catalysts,Asia,63,161,224.8,4,3,4,Yes,Bottleneck
+P493,Customized Valves,Europe,82,314,183.72,5,2,4,Yes,Bottleneck
+P494,Catalysts,Asia,88,368,139.85,3,1,3,Yes,Bottleneck
+P495,Rare Earth Metals,Asia,54,477,198.51,4,2,4,Yes,Bottleneck
+P496,Specialty Gases,Europe,87,236,239.71,4,1,3,Yes,Bottleneck
+P497,Rare Earth Metals,Europe,83,237,213.55,5,1,4,Yes,Bottleneck
+P498,Catalysts,Asia,86,169,126.33,5,1,4,Yes,Bottleneck
+P499,Specialty Gases,Europe,16,296,215.32,5,2,4,Yes,Bottleneck
+P500,Customized Valves,Asia,47,364,167.5,5,1,3,Yes,Bottleneck
+P501,Standard Bolts,North America,48,4558,137.41,1,5,1,No,Leverage
+P502,PVC Pipes,North America,23,1336,87.65,2,4,2,No,Leverage
+P503,Packaging Material,Asia,65,5204,142.07,2,5,1,No,Leverage
+P504,Steel Beams,Europe,23,6592,96.63,1,4,1,No,Leverage
+P505,PVC Pipes,North America,27,2756,126.94,2,3,2,No,Leverage
+P506,Packaging Material,Europe,58,7771,101.06,2,3,1,No,Leverage
+P507,PVC Pipes,Asia,86,2717,93.82,2,4,1,No,Leverage
+P508,Steel Beams,Asia,48,4308,96.57,2,3,2,No,Leverage
+P509,PVC Pipes,North America,46,7416,106.85,1,3,1,No,Leverage
+P510,Standard Bolts,Europe,17,9100,86.59,1,4,1,No,Leverage
+P511,Packaging Material,North America,62,2874,146.15,1,5,1,No,Leverage
+P512,PVC Pipes,Europe,42,8538,111.96,1,5,2,No,Leverage
+P513,PVC Pipes,Europe,62,4176,117.81,2,5,2,No,Leverage
+P514,Standard Bolts,Europe,15,3863,58.9,2,5,2,No,Leverage
+P515,Standard Bolts,North America,73,7615,109.52,3,5,1,No,Leverage
+P516,PVC Pipes,Europe,30,2096,56.01,3,5,2,No,Leverage
+P517,Steel Beams,North America,40,1270,144.15,1,5,1,No,Leverage
+P518,Standard Bolts,North America,72,8299,139.56,1,4,1,No,Leverage
+P519,PVC Pipes,Europe,44,6552,110.38,1,4,2,No,Leverage
+P520,Steel Beams,North America,11,6043,79.99,1,5,1,No,Leverage
+P521,PVC Pipes,North America,29,9662,84.4,2,4,2,No,Leverage
+P522,Packaging Material,Asia,70,5440,89.95,2,4,2,Yes,Leverage
+P523,Steel Beams,North America,8,5538,57.57,1,5,1,No,Leverage
+P524,Steel Beams,Asia,78,6898,111.69,2,4,2,No,Leverage
+P525,Standard Bolts,Asia,62,9923,74.62,3,4,2,No,Leverage
+P526,Standard Bolts,Europe,7,8000,61.57,1,5,2,No,Leverage
+P527,Steel Beams,Europe,86,2449,118.88,1,5,1,No,Leverage
+P528,Packaging Material,Europe,41,9848,55.18,1,4,2,No,Leverage
+P529,PVC Pipes,Asia,66,4580,63.96,1,5,1,No,Leverage
+P530,PVC Pipes,Asia,26,1406,57.66,1,5,1,No,Leverage
+P531,PVC Pipes,Europe,13,7289,115.64,2,3,2,No,Leverage
+P532,Packaging Material,Asia,25,5670,101.23,1,5,1,Yes,Leverage
+P533,Packaging Material,North America,56,2895,90.32,3,5,2,No,Leverage
+P534,Steel Beams,Europe,10,2956,125.0,2,5,2,No,Leverage
+P535,Steel Beams,Asia,79,6313,101.83,3,5,1,Yes,Leverage
+P536,Standard Bolts,Europe,86,4575,138.62,1,4,2,No,Leverage
+P537,Standard Bolts,Europe,51,6316,81.48,3,5,1,No,Leverage
+P538,Standard Bolts,North America,38,2657,104.03,2,5,1,No,Leverage
+P539,PVC Pipes,Europe,73,1607,98.4,3,5,1,No,Leverage
+P540,PVC Pipes,Asia,76,6054,147.84,1,4,2,No,Leverage
+P541,Standard Bolts,Europe,66,3806,90.02,3,3,1,No,Leverage
+P542,Packaging Material,Asia,36,2814,118.8,1,5,2,No,Leverage
+P543,Steel Beams,Europe,64,3415,67.09,2,4,1,No,Leverage
+P544,PVC Pipes,Asia,27,9307,51.66,2,5,2,No,Leverage
+P545,PVC Pipes,North America,60,3941,63.55,1,4,2,No,Leverage
+P546,Standard Bolts,Europe,53,2553,107.39,1,4,1,Yes,Leverage
+P547,Standard Bolts,Asia,78,6877,108.84,3,5,2,Yes,Leverage
+P548,Standard Bolts,North America,23,5670,101.32,1,5,2,Yes,Leverage
+P549,Standard Bolts,Europe,82,9711,72.61,1,5,1,Yes,Leverage
+P550,Steel Beams,North America,73,1969,71.11,1,3,1,Yes,Leverage
+P551,Standard Bolts,North America,35,8954,102.99,3,5,1,No,Leverage
+P552,Packaging Material,Europe,36,4969,84.66,1,5,2,No,Leverage
+P553,Steel Beams,Asia,25,2909,130.29,1,5,1,No,Leverage
+P554,PVC Pipes,Europe,26,9339,117.24,2,4,1,No,Leverage
+P555,Standard Bolts,North America,13,2859,86.05,2,3,1,No,Leverage
+P556,Packaging Material,North America,16,6308,129.38,1,5,1,No,Leverage
+P557,PVC Pipes,Asia,7,6983,116.54,1,5,2,No,Leverage
+P558,Standard Bolts,North America,53,9497,127.95,2,3,2,Yes,Leverage
+P559,Packaging Material,Asia,73,7553,129.15,2,4,1,No,Leverage
+P560,Packaging Material,Europe,44,3229,138.96,1,5,2,No,Leverage
+P561,Packaging Material,North America,48,9635,72.63,1,5,2,No,Leverage
+P562,Standard Bolts,Asia,86,8701,63.1,2,4,1,No,Leverage
+P563,PVC Pipes,Europe,54,7155,109.41,1,5,2,No,Leverage
+P564,Packaging Material,Europe,18,2409,127.75,1,5,1,No,Leverage
+P565,Steel Beams,Europe,20,1279,106.39,1,5,1,Yes,Leverage
+P566,PVC Pipes,Europe,86,7135,90.66,2,5,2,No,Leverage
+P567,Steel Beams,North America,75,8697,129.22,3,5,2,No,Leverage
+P568,Packaging Material,North America,20,3014,62.78,1,5,2,No,Leverage
+P569,Steel Beams,Asia,33,6675,63.46,1,4,1,No,Leverage
+P570,Packaging Material,North America,23,3253,78.83,2,5,1,No,Leverage
+P571,Packaging Material,Asia,79,5054,51.29,2,4,2,No,Leverage
+P572,Steel Beams,Asia,7,4861,104.89,1,5,2,No,Leverage
+P573,Packaging Material,North America,22,5078,58.1,2,4,2,No,Leverage
+P574,Standard Bolts,North America,35,4966,96.38,1,5,2,No,Leverage
+P575,Packaging Material,Asia,82,3994,81.52,1,5,1,No,Leverage
+P576,Packaging Material,Asia,19,1242,125.35,1,5,2,No,Leverage
+P577,Steel Beams,Asia,32,3158,78.45,3,4,1,No,Leverage
+P578,Standard Bolts,Asia,84,5306,104.14,2,5,2,No,Leverage
+P579,Standard Bolts,Europe,48,3657,132.01,2,5,1,No,Leverage
+P580,Packaging Material,Asia,67,2466,130.99,2,5,2,No,Leverage
+P581,Packaging Material,Europe,19,9106,120.17,1,4,1,No,Leverage
+P582,Steel Beams,Europe,51,6599,80.3,2,5,1,No,Leverage
+P583,Standard Bolts,North America,42,9504,107.97,3,4,2,No,Leverage
+P584,PVC Pipes,Europe,85,1272,115.81,1,3,1,No,Leverage
+P585,PVC Pipes,Europe,70,1506,91.48,2,4,1,No,Leverage
+P586,Standard Bolts,Asia,58,2192,123.05,1,5,2,No,Leverage
+P587,Steel Beams,Europe,77,2539,89.17,1,4,1,No,Leverage
+P588,PVC Pipes,Asia,38,1919,59.86,3,5,1,No,Leverage
+P589,PVC Pipes,Asia,10,2436,67.21,2,5,2,No,Leverage
+P590,Steel Beams,Europe,81,9111,143.96,1,4,1,No,Leverage
+P591,PVC Pipes,North America,12,1692,132.87,3,5,1,No,Leverage
+P592,PVC Pipes,Europe,48,9210,130.17,1,5,1,No,Leverage
+P593,Steel Beams,Europe,35,1861,128.59,1,5,1,No,Leverage
+P594,Steel Beams,Europe,13,6811,85.15,1,5,1,No,Leverage
+P595,Standard Bolts,North America,28,5675,125.21,2,4,1,No,Leverage
+P596,PVC Pipes,Asia,20,4096,113.15,3,5,1,No,Leverage
+P597,Standard Bolts,North America,48,9456,72.05,3,4,2,No,Leverage
+P598,Steel Beams,Asia,16,4854,72.68,3,5,1,No,Leverage
+P599,Packaging Material,North America,14,6515,109.8,2,5,1,No,Leverage
+P600,Packaging Material,North America,73,7019,64.53,2,4,1,Yes,Leverage
+P601,Packaging Material,Europe,28,2016,75.81,1,4,1,Yes,Leverage
+P602,Packaging Material,North America,18,3313,95.12,1,4,1,No,Leverage
+P603,Steel Beams,Asia,75,4917,62.33,2,5,1,No,Leverage
+P604,Standard Bolts,Asia,62,2819,142.81,1,5,2,No,Leverage
+P605,Standard Bolts,Asia,86,8235,91.37,2,4,2,No,Leverage
+P606,Packaging Material,Europe,88,4340,89.31,2,5,1,Yes,Leverage
+P607,PVC Pipes,North America,61,5270,61.24,2,5,1,No,Leverage
+P608,Standard Bolts,North America,57,7681,82.49,1,3,2,No,Leverage
+P609,Standard Bolts,Asia,25,8669,68.09,2,4,1,No,Leverage
+P610,Packaging Material,Europe,46,6296,136.64,2,5,1,No,Leverage
+P611,Packaging Material,Asia,78,7453,111.86,1,4,2,No,Leverage
+P612,Packaging Material,North America,29,3841,107.18,1,4,2,No,Leverage
+P613,Standard Bolts,Asia,85,6014,98.38,2,5,2,No,Leverage
+P614,Steel Beams,Asia,48,2882,69.88,2,5,1,No,Leverage
+P615,Standard Bolts,North America,27,3693,106.39,1,5,1,No,Leverage
+P616,PVC Pipes,North America,64,7772,63.05,2,4,2,No,Leverage
+P617,PVC Pipes,Asia,46,8164,140.8,1,5,2,Yes,Leverage
+P618,Standard Bolts,North America,68,6650,97.16,1,5,2,No,Leverage
+P619,Steel Beams,North America,25,5603,52.26,2,3,2,No,Leverage
+P620,Standard Bolts,Asia,86,6618,124.99,1,4,1,No,Leverage
+P621,Packaging Material,North America,54,9536,88.47,2,4,1,No,Leverage
+P622,Standard Bolts,North America,21,7899,67.18,1,5,2,No,Leverage
+P623,Packaging Material,Asia,58,7297,116.89,2,4,2,No,Leverage
+P624,Steel Beams,Europe,67,1622,106.46,1,4,2,No,Leverage
+P625,Standard Bolts,North America,48,8533,113.85,2,5,2,No,Leverage
+P626,Steel Beams,North America,62,1548,91.63,3,5,2,No,Leverage
+P627,Packaging Material,Asia,37,2174,147.66,1,5,1,No,Leverage
+P628,PVC Pipes,Europe,76,5588,55.45,3,5,2,No,Leverage
+P629,Standard Bolts,Asia,66,3933,92.75,2,5,2,No,Leverage
+P630,Standard Bolts,Asia,41,5479,142.15,1,5,2,No,Leverage
+P631,Standard Bolts,North America,57,6731,115.77,1,5,1,Yes,Leverage
+P632,Packaging Material,North America,33,7738,110.0,1,5,2,No,Leverage
+P633,PVC Pipes,Europe,87,1913,64.67,1,5,1,No,Leverage
+P634,PVC Pipes,Asia,84,8037,101.06,2,3,2,Yes,Leverage
+P635,Standard Bolts,Asia,77,2894,82.88,2,5,2,No,Leverage
+P636,Steel Beams,Asia,13,2335,109.78,2,4,2,No,Leverage
+P637,Standard Bolts,Asia,39,5267,71.77,1,3,1,No,Leverage
+P638,PVC Pipes,North America,68,6818,107.78,2,5,1,No,Leverage
+P639,Standard Bolts,Asia,84,2340,117.1,2,5,1,No,Leverage
+P640,PVC Pipes,Asia,53,7414,146.14,2,4,2,No,Leverage
+P641,Steel Beams,Europe,7,9543,127.55,1,4,1,No,Leverage
+P642,PVC Pipes,North America,70,8265,85.72,3,5,2,No,Leverage
+P643,Steel Beams,Europe,22,5435,56.31,2,4,1,No,Leverage
+P644,PVC Pipes,Europe,12,8440,91.9,1,5,2,No,Leverage
+P645,Steel Beams,North America,63,2551,93.53,1,4,1,Yes,Leverage
+P646,PVC Pipes,North America,24,8893,141.5,1,5,2,No,Leverage
+P647,Standard Bolts,Europe,65,1215,93.05,2,5,2,No,Leverage
+P648,Packaging Material,Europe,62,4510,73.45,1,5,2,No,Leverage
+P649,Steel Beams,Asia,87,4020,130.24,1,5,1,No,Leverage
+P650,Standard Bolts,Asia,13,3809,117.16,3,4,2,No,Leverage
+P651,Packaging Material,Europe,27,6187,128.25,3,4,2,No,Leverage
+P652,PVC Pipes,Asia,44,2867,50.7,2,5,2,No,Leverage
+P653,Packaging Material,Asia,63,5631,74.12,1,5,2,Yes,Leverage
+P654,Standard Bolts,North America,48,4605,86.33,3,3,1,No,Leverage
+P655,PVC Pipes,Europe,85,4830,83.93,2,3,2,No,Leverage
+P656,PVC Pipes,Europe,7,2910,121.79,3,5,1,No,Leverage
+P657,Packaging Material,North America,67,7464,61.87,1,5,1,No,Leverage
+P658,PVC Pipes,North America,13,1585,101.18,3,5,2,No,Leverage
+P659,Packaging Material,Europe,25,8329,100.37,1,5,2,No,Leverage
+P660,PVC Pipes,North America,64,2861,81.03,2,5,2,No,Leverage
+P661,PVC Pipes,Asia,32,6398,72.05,2,5,1,No,Leverage
+P662,Steel Beams,North America,86,9895,67.91,1,5,1,No,Leverage
+P663,Standard Bolts,Asia,40,9092,97.77,3,3,2,No,Leverage
+P664,Steel Beams,Asia,7,8481,141.76,2,3,2,No,Leverage
+P665,Steel Beams,Europe,66,4174,113.56,2,4,2,No,Leverage
+P666,Steel Beams,North America,33,5078,146.77,2,5,2,No,Leverage
+P667,Packaging Material,Europe,21,5593,96.9,2,4,2,No,Leverage
+P668,Steel Beams,North America,44,1992,52.53,2,4,1,Yes,Leverage
+P669,Steel Beams,North America,68,5704,64.72,1,4,1,No,Leverage
+P670,Packaging Material,Europe,27,5212,142.61,2,4,2,No,Leverage
+P671,PVC Pipes,North America,23,9044,105.4,1,4,1,No,Leverage
+P672,Steel Beams,Asia,83,8505,61.49,3,3,1,No,Leverage
+P673,Standard Bolts,North America,52,5626,71.66,1,4,2,No,Leverage
+P674,Packaging Material,North America,55,1786,132.94,2,5,1,No,Leverage
+P675,Standard Bolts,Europe,60,8011,148.58,2,3,1,No,Leverage
+P676,PVC Pipes,North America,22,3511,52.0,2,4,2,No,Leverage
+P677,Packaging Material,North America,51,3713,124.94,2,3,2,No,Leverage
+P678,Packaging Material,Europe,50,3506,146.73,1,4,2,No,Leverage
+P679,Steel Beams,Europe,85,8067,75.22,1,4,2,Yes,Leverage
+P680,Steel Beams,Asia,61,6499,133.91,1,5,2,No,Leverage
+P681,Packaging Material,North America,83,9269,135.56,2,5,2,No,Leverage
+P682,Packaging Material,North America,54,5275,60.82,3,5,1,No,Leverage
+P683,Standard Bolts,North America,70,7500,136.96,3,5,2,No,Leverage
+P684,Standard Bolts,North America,32,4364,120.66,2,3,1,No,Leverage
+P685,Steel Beams,North America,20,5517,133.65,3,5,2,No,Leverage
+P686,Standard Bolts,North America,23,1363,143.02,2,5,1,No,Leverage
+P687,Steel Beams,Europe,10,4840,131.16,1,5,2,Yes,Leverage
+P688,PVC Pipes,North America,69,6200,142.26,2,5,2,No,Leverage
+P689,Steel Beams,North America,14,3567,98.98,1,4,2,No,Leverage
+P690,Packaging Material,North America,56,6645,93.62,1,4,2,No,Leverage
+P691,PVC Pipes,Europe,68,6413,142.26,1,5,2,No,Leverage
+P692,PVC Pipes,North America,63,6682,112.35,2,3,2,No,Leverage
+P693,PVC Pipes,Europe,58,9119,97.54,2,5,2,No,Leverage
+P694,PVC Pipes,Europe,37,5938,107.68,3,4,1,Yes,Leverage
+P695,Packaging Material,North America,57,7401,144.38,1,5,2,No,Leverage
+P696,PVC Pipes,Europe,58,8933,115.38,1,5,2,No,Leverage
+P697,Steel Beams,North America,88,4235,147.01,1,5,1,No,Leverage
+P698,Steel Beams,Europe,14,4381,70.15,1,3,2,No,Leverage
+P699,PVC Pipes,North America,64,6533,111.04,2,5,2,No,Leverage
+P700,PVC Pipes,North America,13,2131,140.62,1,5,2,No,Leverage
+P701,PVC Pipes,North America,19,8318,84.59,3,4,2,No,Leverage
+P702,Steel Beams,Asia,13,6288,121.92,1,5,1,No,Leverage
+P703,Packaging Material,Europe,32,6262,79.8,1,5,2,No,Leverage
+P704,Steel Beams,Asia,29,7639,82.62,2,3,1,No,Leverage
+P705,Standard Bolts,Europe,15,5711,126.91,1,5,2,No,Leverage
+P706,Packaging Material,Europe,83,5379,113.46,1,5,2,No,Leverage
+P707,Standard Bolts,North America,62,3637,117.66,1,5,1,No,Leverage
+P708,Steel Beams,North America,60,7520,142.94,1,5,1,No,Leverage
+P709,Standard Bolts,North America,42,4985,145.46,3,5,2,No,Leverage
+P710,Steel Beams,Asia,84,5753,136.95,1,5,1,No,Leverage
+P711,Packaging Material,North America,7,9625,63.33,1,4,1,No,Leverage
+P712,Standard Bolts,Europe,45,1250,61.82,2,5,1,No,Leverage
+P713,PVC Pipes,North America,8,2173,116.47,2,5,2,No,Leverage
+P714,Steel Beams,Europe,86,6287,116.13,3,4,2,No,Leverage
+P715,Steel Beams,Europe,55,8619,136.44,2,4,2,No,Leverage
+P716,Packaging Material,Europe,29,8211,91.72,1,5,1,No,Leverage
+P717,Packaging Material,Europe,84,4057,90.17,1,4,1,No,Leverage
+P718,PVC Pipes,North America,40,9210,121.54,1,5,1,No,Leverage
+P719,PVC Pipes,North America,16,5137,148.81,1,4,1,No,Leverage
+P720,PVC Pipes,North America,36,8572,120.56,2,5,2,No,Leverage
+P721,Steel Beams,North America,69,4129,54.71,1,5,1,No,Leverage
+P722,Standard Bolts,Asia,16,6111,51.05,1,5,1,No,Leverage
+P723,Standard Bolts,Asia,26,5025,139.39,2,5,1,No,Leverage
+P724,PVC Pipes,North America,71,2812,145.89,1,5,2,No,Leverage
+P725,Steel Beams,North America,61,1551,107.85,1,4,1,No,Leverage
+P726,Packaging Material,Asia,83,5052,58.7,2,5,2,No,Leverage
+P727,Steel Beams,Asia,65,7354,50.62,1,4,2,Yes,Leverage
+P728,Packaging Material,Asia,45,9449,52.4,1,3,1,No,Leverage
+P729,PVC Pipes,Europe,36,6670,103.82,1,4,2,Yes,Leverage
+P730,Packaging Material,North America,63,3243,55.91,2,5,1,No,Leverage
+P731,Standard Bolts,North America,38,1343,87.1,1,5,1,No,Leverage
+P732,Packaging Material,Asia,82,6819,53.24,2,3,1,No,Leverage
+P733,Packaging Material,Asia,24,7784,72.44,1,5,2,No,Leverage
+P734,Packaging Material,North America,40,7673,107.12,2,5,1,No,Leverage
+P735,Standard Bolts,Europe,41,7654,63.14,3,5,1,No,Leverage
+P736,PVC Pipes,Europe,28,7310,84.81,2,5,2,No,Leverage
+P737,Standard Bolts,North America,63,4382,123.65,1,5,2,No,Leverage
+P738,Standard Bolts,Asia,80,5273,82.07,2,5,2,No,Leverage
+P739,Standard Bolts,Asia,40,6315,148.33,3,5,1,No,Leverage
+P740,PVC Pipes,Asia,56,4250,148.65,2,5,2,No,Leverage
+P741,Steel Beams,Asia,54,3261,71.76,1,4,2,No,Leverage
+P742,Steel Beams,Europe,80,4209,104.48,2,3,1,No,Leverage
+P743,Steel Beams,Asia,46,4557,86.67,2,3,2,No,Leverage
+P744,Packaging Material,Europe,33,7763,76.68,2,3,1,No,Leverage
+P745,PVC Pipes,North America,58,1354,81.28,1,5,1,No,Leverage
+P746,Packaging Material,Europe,45,3486,126.62,1,5,1,No,Leverage
+P747,Steel Beams,North America,86,8435,116.23,1,4,1,No,Leverage
+P748,Packaging Material,Asia,40,9708,97.44,1,4,2,No,Leverage
+P749,Standard Bolts,North America,56,5934,73.29,3,3,1,No,Leverage
+P750,Packaging Material,Asia,76,6676,63.33,2,5,1,No,Leverage
+P751,Cleaning Supplies,Global,55,12768,40.71,1,1,1,No,Non-Critical
+P752,Uniforms,Global,43,15372,42.27,1,1,1,No,Non-Critical
+P753,Cleaning Supplies,Global,22,18902,21.86,1,2,2,No,Non-Critical
+P754,Cleaning Supplies,Global,59,19849,29.54,3,1,2,No,Non-Critical
+P755,Printer Ink,Global,13,19170,35.04,2,2,2,No,Non-Critical
+P756,Cleaning Supplies,Global,32,7500,15.34,1,2,1,No,Non-Critical
+P757,Uniforms,Global,10,13540,39.44,2,2,2,No,Non-Critical
+P758,Cleaning Supplies,Global,33,7419,21.17,1,3,1,Yes,Non-Critical
+P759,Office Stationery,Global,88,8117,48.98,2,2,2,No,Non-Critical
+P760,Printer Ink,Global,73,15910,15.13,1,2,2,No,Non-Critical
+P761,Printer Ink,Global,8,17779,43.06,1,1,1,No,Non-Critical
+P762,Cleaning Supplies,Global,55,19345,47.14,2,1,2,No,Non-Critical
+P763,Printer Ink,Global,32,5969,24.4,1,1,1,No,Non-Critical
+P764,Uniforms,Global,19,11799,36.68,2,3,1,Yes,Non-Critical
+P765,Uniforms,Global,68,13001,29.76,2,1,2,No,Non-Critical
+P766,Printer Ink,Global,27,9551,47.51,3,2,2,No,Non-Critical
+P767,Uniforms,Global,37,14663,42.82,1,2,2,Yes,Non-Critical
+P768,Cleaning Supplies,Global,86,16534,31.86,1,1,2,No,Non-Critical
+P769,Uniforms,Global,34,18653,17.37,1,1,1,No,Non-Critical
+P770,Uniforms,Global,83,15464,42.78,3,2,1,No,Non-Critical
+P771,Cleaning Supplies,Global,48,12131,20.42,1,1,2,No,Non-Critical
+P772,Printer Ink,Global,33,6081,21.35,1,1,2,No,Non-Critical
+P773,Office Stationery,Global,64,9760,30.51,1,1,2,No,Non-Critical
+P774,Cleaning Supplies,Global,26,18393,12.83,1,1,1,No,Non-Critical
+P775,Printer Ink,Global,9,17224,22.0,1,1,1,No,Non-Critical
+P776,Cleaning Supplies,Global,30,18247,18.71,1,1,2,Yes,Non-Critical
+P777,Printer Ink,Global,60,6507,49.04,3,1,2,No,Non-Critical
+P778,Printer Ink,Global,75,19090,37.34,3,2,1,No,Non-Critical
+P779,Printer Ink,Global,77,14697,10.09,1,3,1,No,Non-Critical
+P780,Printer Ink,Global,77,7096,20.36,2,1,2,No,Non-Critical
+P781,Uniforms,Global,36,13867,28.12,1,3,2,No,Non-Critical
+P782,Cleaning Supplies,Global,28,14807,32.98,1,2,2,No,Non-Critical
+P783,Uniforms,Global,56,19516,17.89,1,1,2,No,Non-Critical
+P784,Uniforms,Global,45,6044,31.49,2,3,2,No,Non-Critical
+P785,Office Stationery,Global,84,12503,28.22,1,3,2,No,Non-Critical
+P786,Office Stationery,Global,64,5237,37.67,2,2,2,No,Non-Critical
+P787,Printer Ink,Global,13,16560,21.0,1,1,1,No,Non-Critical
+P788,Cleaning Supplies,Global,87,16600,22.41,1,3,2,No,Non-Critical
+P789,Office Stationery,Global,63,18216,39.5,1,2,2,No,Non-Critical
+P790,Office Stationery,Global,10,11533,38.84,2,1,2,No,Non-Critical
+P791,Cleaning Supplies,Global,68,16494,13.82,3,2,2,No,Non-Critical
+P792,Cleaning Supplies,Global,63,19033,10.68,2,1,2,No,Non-Critical
+P793,Cleaning Supplies,Global,75,8936,26.55,1,1,2,No,Non-Critical
+P794,Printer Ink,Global,9,12456,12.47,1,1,2,No,Non-Critical
+P795,Cleaning Supplies,Global,57,11041,13.54,1,1,2,No,Non-Critical
+P796,Office Stationery,Global,50,5470,15.51,1,1,1,Yes,Non-Critical
+P797,Uniforms,Global,50,15591,41.46,1,2,2,No,Non-Critical
+P798,Cleaning Supplies,Global,76,15200,16.96,3,3,2,No,Non-Critical
+P799,Cleaning Supplies,Global,49,7073,49.85,1,1,1,No,Non-Critical
+P800,Uniforms,Global,24,7032,45.46,3,1,2,No,Non-Critical
+P801,Office Stationery,Global,36,9651,11.15,2,2,2,No,Non-Critical
+P802,Uniforms,Global,81,12282,48.36,3,1,2,No,Non-Critical
+P803,Printer Ink,Global,89,18210,37.59,3,2,2,No,Non-Critical
+P804,Uniforms,Global,22,12867,40.02,1,3,1,No,Non-Critical
+P805,Printer Ink,Global,55,10191,17.12,1,1,1,No,Non-Critical
+P806,Cleaning Supplies,Global,24,16675,39.56,1,3,1,No,Non-Critical
+P807,Cleaning Supplies,Global,44,16980,46.47,1,1,1,No,Non-Critical
+P808,Cleaning Supplies,Global,78,5677,42.03,2,1,2,No,Non-Critical
+P809,Uniforms,Global,12,19236,28.56,2,1,2,No,Non-Critical
+P810,Cleaning Supplies,Global,19,14493,35.26,2,2,1,No,Non-Critical
+P811,Office Stationery,Global,19,5250,41.12,1,1,1,No,Non-Critical
+P812,Cleaning Supplies,Global,54,18029,26.76,2,2,1,No,Non-Critical
+P813,Uniforms,Global,17,9710,14.38,1,2,1,No,Non-Critical
+P814,Office Stationery,Global,8,8675,41.07,1,1,1,No,Non-Critical
+P815,Office Stationery,Global,52,8170,49.52,2,2,2,No,Non-Critical
+P816,Office Stationery,Global,55,14019,21.25,2,2,1,No,Non-Critical
+P817,Uniforms,Global,32,8735,21.98,3,3,1,No,Non-Critical
+P818,Office Stationery,Global,44,6460,41.6,1,1,1,No,Non-Critical
+P819,Printer Ink,Global,23,9378,14.63,2,1,2,No,Non-Critical
+P820,Printer Ink,Global,36,18186,23.66,1,2,2,No,Non-Critical
+P821,Office Stationery,Global,45,13802,48.09,2,1,1,No,Non-Critical
+P822,Cleaning Supplies,Global,33,13123,49.31,1,1,1,No,Non-Critical
+P823,Printer Ink,Global,67,14604,33.97,1,2,2,No,Non-Critical
+P824,Cleaning Supplies,Global,73,14848,15.02,1,1,2,No,Non-Critical
+P825,Office Stationery,Global,82,17171,44.4,2,2,2,No,Non-Critical
+P826,Cleaning Supplies,Global,37,14420,35.07,2,1,1,No,Non-Critical
+P827,Office Stationery,Global,45,11343,40.14,2,1,2,No,Non-Critical
+P828,Office Stationery,Global,56,5727,13.63,1,2,2,No,Non-Critical
+P829,Office Stationery,Global,86,6550,46.11,1,1,2,No,Non-Critical
+P830,Office Stationery,Global,22,9241,42.09,1,3,1,No,Non-Critical
+P831,Printer Ink,Global,31,16926,38.01,1,1,1,No,Non-Critical
+P832,Office Stationery,Global,59,7233,30.54,1,2,2,No,Non-Critical
+P833,Printer Ink,Global,39,19781,42.22,2,1,2,No,Non-Critical
+P834,Uniforms,Global,31,15970,32.91,1,2,2,No,Non-Critical
+P835,Uniforms,Global,86,5858,40.93,1,2,2,No,Non-Critical
+P836,Printer Ink,Global,56,6447,31.76,1,1,2,No,Non-Critical
+P837,Printer Ink,Global,15,11952,20.33,1,2,2,No,Non-Critical
+P838,Uniforms,Global,76,15195,19.5,2,1,2,No,Non-Critical
+P839,Office Stationery,Global,37,14336,12.09,3,1,2,No,Non-Critical
+P840,Uniforms,Global,69,14951,21.27,1,1,1,No,Non-Critical
+P841,Cleaning Supplies,Global,15,12795,22.86,1,1,2,No,Non-Critical
+P842,Uniforms,Global,69,18493,11.52,1,1,2,No,Non-Critical
+P843,Printer Ink,Global,49,15339,41.47,2,2,2,No,Non-Critical
+P844,Office Stationery,Global,56,8690,45.21,2,1,2,No,Non-Critical
+P845,Cleaning Supplies,Global,17,9938,42.07,2,1,2,No,Non-Critical
+P846,Office Stationery,Global,17,8981,13.81,1,2,2,No,Non-Critical
+P847,Printer Ink,Global,31,14126,16.94,3,3,2,No,Non-Critical
+P848,Office Stationery,Global,19,9655,49.82,2,2,2,No,Non-Critical
+P849,Office Stationery,Global,64,13712,29.56,1,1,1,No,Non-Critical
+P850,Cleaning Supplies,Global,84,9607,35.03,1,2,1,No,Non-Critical
+P851,Printer Ink,Global,13,6857,32.87,1,1,2,No,Non-Critical
+P852,Cleaning Supplies,Global,33,10072,10.88,3,2,2,No,Non-Critical
+P853,Cleaning Supplies,Global,30,15085,14.04,3,2,2,No,Non-Critical
+P854,Office Stationery,Global,40,6386,13.75,3,3,2,No,Non-Critical
+P855,Printer Ink,Global,88,19940,13.62,2,2,2,No,Non-Critical
+P856,Uniforms,Global,55,8308,29.86,3,1,1,No,Non-Critical
+P857,Cleaning Supplies,Global,46,9782,24.66,2,3,2,No,Non-Critical
+P858,Uniforms,Global,88,16774,25.17,1,2,2,No,Non-Critical
+P859,Uniforms,Global,26,17955,33.14,3,2,1,No,Non-Critical
+P860,Printer Ink,Global,40,5834,36.03,1,3,1,No,Non-Critical
+P861,Cleaning Supplies,Global,31,14330,30.01,1,2,2,No,Non-Critical
+P862,Uniforms,Global,69,8110,32.27,3,2,1,No,Non-Critical
+P863,Uniforms,Global,89,5212,34.78,1,1,1,No,Non-Critical
+P864,Cleaning Supplies,Global,46,18777,17.62,2,1,1,No,Non-Critical
+P865,Uniforms,Global,61,9808,24.0,1,1,1,No,Non-Critical
+P866,Uniforms,Global,33,17910,24.58,1,3,2,No,Non-Critical
+P867,Office Stationery,Global,48,18863,18.3,1,1,2,No,Non-Critical
+P868,Cleaning Supplies,Global,31,6777,39.78,1,2,1,No,Non-Critical
+P869,Printer Ink,Global,41,13343,13.33,3,3,2,No,Non-Critical
+P870,Office Stationery,Global,23,17708,32.62,2,3,1,Yes,Non-Critical
+P871,Office Stationery,Global,83,15972,36.83,1,1,1,No,Non-Critical
+P872,Office Stationery,Global,26,8845,13.37,1,1,2,No,Non-Critical
+P873,Office Stationery,Global,31,5968,27.69,2,2,1,No,Non-Critical
+P874,Office Stationery,Global,62,9725,38.69,1,1,2,No,Non-Critical
+P875,Uniforms,Global,58,12420,40.5,2,1,2,No,Non-Critical
+P876,Printer Ink,Global,64,18391,42.23,3,1,1,No,Non-Critical
+P877,Office Stationery,Global,68,12174,17.01,3,1,2,No,Non-Critical
+P878,Uniforms,Global,30,17641,48.2,3,1,1,No,Non-Critical
+P879,Uniforms,Global,85,14308,28.79,2,3,2,No,Non-Critical
+P880,Office Stationery,Global,31,6736,36.56,2,3,1,No,Non-Critical
+P881,Office Stationery,Global,19,6764,33.26,1,1,2,No,Non-Critical
+P882,Uniforms,Global,45,19382,35.82,2,1,1,No,Non-Critical
+P883,Office Stationery,Global,87,5391,27.07,1,2,1,No,Non-Critical
+P884,Cleaning Supplies,Global,70,16930,32.46,2,1,2,No,Non-Critical
+P885,Printer Ink,Global,59,11671,33.32,2,1,1,No,Non-Critical
+P886,Office Stationery,Global,79,8883,11.91,1,3,2,No,Non-Critical
+P887,Printer Ink,Global,49,19168,25.42,2,2,1,No,Non-Critical
+P888,Uniforms,Global,37,9277,20.49,1,1,1,No,Non-Critical
+P889,Printer Ink,Global,15,14716,29.63,1,3,2,No,Non-Critical
+P890,Cleaning Supplies,Global,84,12213,31.18,2,2,2,Yes,Non-Critical
+P891,Printer Ink,Global,50,6909,49.98,2,2,2,No,Non-Critical
+P892,Cleaning Supplies,Global,67,8061,13.79,3,1,2,No,Non-Critical
+P893,Printer Ink,Global,65,12280,37.41,1,1,2,No,Non-Critical
+P894,Cleaning Supplies,Global,55,15284,38.09,1,3,2,No,Non-Critical
+P895,Uniforms,Global,53,13458,18.79,1,1,2,No,Non-Critical
+P896,Cleaning Supplies,Global,88,14063,34.88,3,2,2,No,Non-Critical
+P897,Office Stationery,Global,45,9357,10.4,1,3,2,No,Non-Critical
+P898,Uniforms,Global,42,16401,34.15,1,1,1,No,Non-Critical
+P899,Office Stationery,Global,77,13728,24.87,1,1,1,No,Non-Critical
+P900,Office Stationery,Global,29,8400,43.64,1,1,2,No,Non-Critical
+P901,Printer Ink,Global,37,6103,12.09,3,2,1,No,Non-Critical
+P902,Office Stationery,Global,74,11017,43.81,3,2,1,No,Non-Critical
+P903,Printer Ink,Global,77,14638,48.39,1,3,1,No,Non-Critical
+P904,Cleaning Supplies,Global,32,16560,44.33,2,1,2,No,Non-Critical
+P905,Printer Ink,Global,76,8740,44.72,2,1,1,No,Non-Critical
+P906,Office Stationery,Global,71,11941,23.46,1,2,1,No,Non-Critical
+P907,Printer Ink,Global,58,9234,39.74,1,1,1,No,Non-Critical
+P908,Printer Ink,Global,32,17762,38.52,1,1,1,No,Non-Critical
+P909,Office Stationery,Global,83,13705,34.31,1,1,1,No,Non-Critical
+P910,Cleaning Supplies,Global,52,12846,26.81,1,1,2,No,Non-Critical
+P911,Uniforms,Global,25,9508,12.4,3,1,2,No,Non-Critical
+P912,Office Stationery,Global,19,8273,44.95,1,2,2,No,Non-Critical
+P913,Office Stationery,Global,69,17664,20.0,2,3,2,No,Non-Critical
+P914,Office Stationery,Global,23,11605,20.89,1,2,2,No,Non-Critical
+P915,Uniforms,Global,80,6875,33.86,1,1,2,No,Non-Critical
+P916,Cleaning Supplies,Global,64,9311,31.47,2,3,2,No,Non-Critical
+P917,Office Stationery,Global,85,15629,11.45,1,1,2,No,Non-Critical
+P918,Cleaning Supplies,Global,71,16109,22.23,3,1,1,No,Non-Critical
+P919,Uniforms,Global,77,9005,21.43,2,3,1,No,Non-Critical
+P920,Printer Ink,Global,61,10260,31.97,1,3,2,No,Non-Critical
+P921,Office Stationery,Global,73,8301,27.99,2,2,1,No,Non-Critical
+P922,Uniforms,Global,56,17915,26.42,2,1,2,No,Non-Critical
+P923,Cleaning Supplies,Global,32,14587,44.6,1,2,1,No,Non-Critical
+P924,Printer Ink,Global,26,14280,15.4,3,2,2,No,Non-Critical
+P925,Office Stationery,Global,30,19731,40.27,1,1,2,No,Non-Critical
+P926,Cleaning Supplies,Global,32,8003,11.67,1,1,1,No,Non-Critical
+P927,Cleaning Supplies,Global,43,16760,36.22,3,1,1,No,Non-Critical
+P928,Office Stationery,Global,20,15139,24.91,2,3,1,No,Non-Critical
+P929,Uniforms,Global,62,16039,42.13,2,1,2,No,Non-Critical
+P930,Office Stationery,Global,28,5669,21.79,3,1,2,No,Non-Critical
+P931,Cleaning Supplies,Global,28,17627,41.94,1,1,1,No,Non-Critical
+P932,Cleaning Supplies,Global,13,19024,44.28,2,3,2,No,Non-Critical
+P933,Uniforms,Global,70,5486,40.89,1,1,1,No,Non-Critical
+P934,Cleaning Supplies,Global,80,13572,10.69,3,2,1,No,Non-Critical
+P935,Uniforms,Global,72,12756,36.58,1,3,1,No,Non-Critical
+P936,Uniforms,Global,71,7587,14.53,1,2,1,No,Non-Critical
+P937,Cleaning Supplies,Global,70,19306,12.96,1,1,1,No,Non-Critical
+P938,Office Stationery,Global,40,9331,16.97,1,2,1,No,Non-Critical
+P939,Printer Ink,Global,47,9320,12.53,1,3,1,No,Non-Critical
+P940,Cleaning Supplies,Global,34,10539,49.0,1,1,1,No,Non-Critical
+P941,Uniforms,Global,35,16215,16.59,2,1,1,No,Non-Critical
+P942,Printer Ink,Global,10,7001,12.19,1,3,1,No,Non-Critical
+P943,Uniforms,Global,67,15344,44.99,1,2,2,No,Non-Critical
+P944,Cleaning Supplies,Global,29,18824,25.94,1,3,1,No,Non-Critical
+P945,Uniforms,Global,67,17129,15.92,1,2,1,No,Non-Critical
+P946,Printer Ink,Global,56,19792,42.72,1,2,2,No,Non-Critical
+P947,Office Stationery,Global,7,17234,12.18,2,1,2,No,Non-Critical
+P948,Uniforms,Global,49,16650,47.43,2,2,1,No,Non-Critical
+P949,Cleaning Supplies,Global,78,8201,18.61,2,1,2,No,Non-Critical
+P950,Uniforms,Global,25,12083,25.5,1,1,2,No,Non-Critical
+P951,Printer Ink,Global,56,13490,36.82,2,1,2,No,Non-Critical
+P952,Cleaning Supplies,Global,67,14069,30.58,3,1,1,No,Non-Critical
+P953,Cleaning Supplies,Global,76,15095,19.07,1,3,1,No,Non-Critical
+P954,Printer Ink,Global,62,12320,39.42,2,1,2,No,Non-Critical
+P955,Cleaning Supplies,Global,72,12593,42.58,2,1,1,No,Non-Critical
+P956,Cleaning Supplies,Global,78,12586,48.32,1,1,1,No,Non-Critical
+P957,Printer Ink,Global,71,8167,17.71,1,1,2,No,Non-Critical
+P958,Office Stationery,Global,18,9477,31.43,2,1,2,Yes,Non-Critical
+P959,Office Stationery,Global,26,14546,29.31,1,2,1,No,Non-Critical
+P960,Printer Ink,Global,36,16294,29.34,2,2,2,No,Non-Critical
+P961,Office Stationery,Global,87,10255,17.98,2,1,1,No,Non-Critical
+P962,Uniforms,Global,59,6885,44.06,2,3,1,No,Non-Critical
+P963,Printer Ink,Global,50,12171,40.2,2,2,1,No,Non-Critical
+P964,Uniforms,Global,79,9947,18.41,1,1,2,No,Non-Critical
+P965,Uniforms,Global,64,13959,37.92,1,2,2,No,Non-Critical
+P966,Printer Ink,Global,83,16340,27.83,2,1,2,No,Non-Critical
+P967,Cleaning Supplies,Global,30,10487,31.51,1,1,2,No,Non-Critical
+P968,Cleaning Supplies,Global,14,8374,38.44,1,2,2,No,Non-Critical
+P969,Uniforms,Global,55,12631,42.78,2,1,1,No,Non-Critical
+P970,Printer Ink,Global,84,16595,48.76,2,2,1,No,Non-Critical
+P971,Cleaning Supplies,Global,52,16462,36.42,1,1,1,No,Non-Critical
+P972,Uniforms,Global,89,11300,21.7,1,1,1,No,Non-Critical
+P973,Cleaning Supplies,Global,11,19104,38.84,1,3,2,No,Non-Critical
+P974,Printer Ink,Global,71,19581,42.19,1,2,2,No,Non-Critical
+P975,Cleaning Supplies,Global,16,18603,16.39,1,3,2,No,Non-Critical
+P976,Office Stationery,Global,63,9890,19.45,2,2,1,No,Non-Critical
+P977,Uniforms,Global,79,7916,31.34,1,2,1,No,Non-Critical
+P978,Cleaning Supplies,Global,34,12190,34.27,1,1,1,Yes,Non-Critical
+P979,Printer Ink,Global,15,8621,39.91,2,3,2,No,Non-Critical
+P980,Office Stationery,Global,16,19250,29.73,1,2,2,No,Non-Critical
+P981,Uniforms,Global,69,11507,33.47,2,2,1,No,Non-Critical
+P982,Uniforms,Global,55,10130,33.63,1,2,2,Yes,Non-Critical
+P983,Cleaning Supplies,Global,29,15055,29.48,2,2,1,No,Non-Critical
+P984,Office Stationery,Global,64,13480,14.79,1,2,2,No,Non-Critical
+P985,Office Stationery,Global,21,6195,30.81,3,2,2,No,Non-Critical
+P986,Printer Ink,Global,69,15313,19.69,3,2,1,No,Non-Critical
+P987,Office Stationery,Global,87,7431,17.31,1,1,1,No,Non-Critical
+P988,Printer Ink,Global,17,9814,40.6,2,1,1,No,Non-Critical
+P989,Printer Ink,Global,50,19746,11.52,1,1,2,No,Non-Critical
+P990,Cleaning Supplies,Global,82,12377,43.42,1,1,1,No,Non-Critical
+P991,Office Stationery,Global,16,16317,49.85,3,2,2,No,Non-Critical
+P992,Cleaning Supplies,Global,85,6181,26.64,2,2,1,No,Non-Critical
+P993,Office Stationery,Global,69,6774,46.32,1,2,1,Yes,Non-Critical
+P994,Office Stationery,Global,22,19231,31.36,1,1,1,No,Non-Critical
+P995,Cleaning Supplies,Global,36,7922,22.98,1,1,2,No,Non-Critical
+P996,Printer Ink,Global,19,19648,10.2,2,1,1,No,Non-Critical
+P997,Cleaning Supplies,Global,21,19143,15.3,1,2,1,No,Non-Critical
+P998,Uniforms,Global,70,5352,30.23,1,3,2,No,Non-Critical
+P999,Printer Ink,Global,44,18070,30.73,1,1,2,No,Non-Critical
+P1000,Cleaning Supplies,Global,76,9018,29.98,1,3,1,No,Non-Critical
